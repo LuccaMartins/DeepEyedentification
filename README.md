@@ -12,3 +12,12 @@ gravações de a partir de 1 segundo de rastreamento ocular de usuários enquant
 realizavam leituras. O objetivo da rede é conseguir identificar a que
 usuário uma dada gravação pertence, a partir das velocidades angulares horizontais
 e verticais do olho em cada milissegundo de gravação.
+
+
+This is the architecture of the CNN used in this application: 
+
+<img src="cnn_visualization.png" alt="CNN Architecture"/>
+
+Os resultados são bastante satisfatórios. A contextualização do estudo e os resultados obtidos estão descritos no artigo **"./Artigo_BCC462___Deep_Eyedentification.pdf"**.
+
+
